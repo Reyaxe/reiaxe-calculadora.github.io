@@ -1,0 +1,17 @@
+.input{
+    height: 75px;
+    background-color: black;
+    margin-bottom: 20px;
+    display: flex;
+    color:aliceblue;
+    border-radius: 45px;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    padding: 11px;
+    font-weight: bold;
+    padding-right: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    box-shadow: -1px 4px 1px 1px white;
+}
