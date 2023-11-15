@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reiaxe-calculadora.github.io/static/css/main.56094e1d.css",
+    "main.js": "/reiaxe-calculadora.github.io/static/js/main.8e0b1611.js",
+    "index.html": "/reiaxe-calculadora.github.io/index.html",
+    "main.56094e1d.css.map": "/reiaxe-calculadora.github.io/static/css/main.56094e1d.css.map",
+    "main.8e0b1611.js.map": "/reiaxe-calculadora.github.io/static/js/main.8e0b1611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56094e1d.css",
+    "static/js/main.8e0b1611.js"
+  ]
+}
